@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ivanvasilev/Work/gpm/location/script'
+let g:netrw_dirhist_2='/Users/ivanvasilev/Work/fuchsia/fuchsia/build'
+let g:netrw_dirhist_3='/home/ivan/RiscV/darkriscv/sim'
+let g:netrw_dirhist_4='/mnt/c/Work/LoopSystem/LoopSystem_ESP32/lib/control_protocol'
+let g:netrw_dirhist_5='/mnt/c/Work/scrapers/olx/processor'
