@@ -60,6 +60,9 @@ set shiftwidth=4     " indent also with 4 spaces
 set expandtab        " expand tabs to spaces
 " wrap lines at 120 chars. 80 is somewaht antiquated with nowadays displays.
 set textwidth=120
+" add a visual guide at 120 characters
+set colorcolumn=120
+highlight ColorColumn ctermbg=darkgrey guibg=lightgrey
 " turn syntax highlighting on
 set t_Co=256
 syntax on
