@@ -11,7 +11,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'vim-airline/vim-airline'
-
+Plugin 'hashivim/vim-terraform'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
