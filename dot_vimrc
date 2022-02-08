@@ -75,3 +75,5 @@ set comments=sl:/*,mb:\ *,elx:\ */
 " Visually wrap but do not insert newline
 set formatoptions-=t
 
+" Put swap files outside the original filename location - workaround for incomplete .gitignore files mostly
+set directory=$HOME/.vim/swapfiles//
